@@ -33,7 +33,7 @@ entradas e saídas no terminal.
 ```bash
   cd Jogo-Sudoku/src
 ```
-### 2. Compile todos os arquivos:
+### 2. Compile o arquivo:
 ```bash
   javac Main.java
 ```
